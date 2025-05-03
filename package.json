@@ -1,0 +1,19 @@
+{
+  "name": "7.2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ambickatus/hw_js_task_7.2.git"
+  },
+  "author": "Ilya Ananyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ambickatus/hw_js_task_7.2/issues"
+  },
+  "homepage": "https://github.com/Ambickatus/hw_js_task_7.2#readme",
+  "description": ""
+}
