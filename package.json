@@ -15,5 +15,13 @@
     "url": "https://github.com/Ambickatus/hw_js_task_7.2/issues"
   },
   "homepage": "https://github.com/Ambickatus/hw_js_task_7.2#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.26.0",
+    "eslint": "^9.26.0",
+    "eslint-config-prettier": "^10.1.2",
+    "eslint-plugin-prettier": "^5.3.0",
+    "globals": "^16.0.0",
+    "prettier": "^3.5.3"
+  }
 }
